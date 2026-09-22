@@ -1,0 +1,29 @@
+# Unreal Engine (Ignora compilados pesados como .pch y caches)
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+**/.vs/
+*.pdb
+*.pch
+
+# Unity (Ignora Library y temporales gigantes)
+**/Library/
+**/Temp/
+**/Obj/
+**/Build/
+**/Builds/
+**/Logs/
+**/UserSettings/
+**/MemoryCaptures/
+
+# Godot
+**/.godot/
+**/.import/
+
+# Binarios y comprimidos
+*.exe
+*.apk
+*.zip
+*.rar
+*.7z
+*.bin
